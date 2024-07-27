@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="957ETwP-80SAgBlYYzE6UQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC2SURBVDhPY/j//z9FmKGotCo9PbvgEDkYpJchKS37f3xyBlkYpJcBxgmPjv9v7+RGFAaphemDGwCSUFBUQcG6eoZgjC4OUkvQAJDG8xcugDG6IUQZsHz5iv/fv38HYxAbWY4+LgBhkEZ0zSBM0ICw8Mj/PT19/w8dOgzGILaHpw9xBiD7HR3PnDWbsAHYNMIwyDU4DYAlpNlz5+PELW2dYDVYExK5GGRAAhAfIBMnYM2ixOP/DADq4DbS7BYhvAAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='Lab Manual ( observation)' /&gt;" Title="Lab Manual ( observation)" Url="https://classroom.google.com/c/Njk4MjA2NjQ4MDc4/m/Njk4MzYyMjMzMjM5/details">
+      <imageRef attrName="InformativeScreenshot" originalValue="284402f06f6be72f285cd3134b7b3600.jpg" xmlns="">08vk9tb7-9ESF7A0xwOOtgQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
